@@ -1,5 +1,5 @@
 # POO em Java
-Este repositório armazena exercício de Programação Orientada a Objetos em Java.
+Este repositório armazena exercícios de Programação Orientada a Objetos em Java.
 
 # O que é POO?
 Boa pergunta! Eu também não sei (ainda)~~ mas estou tentando descobrir a partir desses exercícios.
